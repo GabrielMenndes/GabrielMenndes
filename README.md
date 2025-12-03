@@ -18,4 +18,3 @@
 
 <a href="https://www.linkedin.com/in/gabriel-mendes-54b12039b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin-logo"/></a>
 
-[![Gabriel Stats](https://github-readme-stats.vercel.app/api?GabrielMenndes=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
